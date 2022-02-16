@@ -1,3 +1,5 @@
+#PikPizza
+
 #Idea of the Website:
 >Install and setup Django
 >Install and setup VUE
@@ -43,6 +45,3 @@
 
 
 
-
-
-> edit
