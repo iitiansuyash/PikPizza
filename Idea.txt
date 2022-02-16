@@ -1,6 +1,48 @@
-Idea of the Website:
+#Idea of the Website:
 >Install and setup Django
 >Install and setup VUE
+>Use font Awesome
+>First Page [design]
+>Create Django App and Models for items [Pizza's]
+>Create view for the product
+>Create simple front page of latest items
+
+>view an items:
+    >Create view set in Django
+    >Create vue page for showing items
+    >Add link to detail page
+
+>Set Vuex
+>Make it possible to add to cart 
+>Add functionality to Vuex
+>Initialize store in app vue
+>Add button to product page
+>Pop a message "Item was added to cart"
+>Sign up
+>login in
+>My account Page
+>Implement a loading bar
+>Set document title (All pages)
+>Make it possible to view a catagory
+    >Convert the product into components.
+>Add search functionality
+>View cart 
+    >A cart item should be an component
+>Change contents of cart
+    >Increment/Decrement contents
+    >Remove From cart
+>Proceed to checkout (authentication)
+>Create a simple Success Page;
+>Show my orders on my account Pafe
+    >An order should be a component
+>Deploy Django
+>Deploy vue:
+    >Generate files locally
+    >Send files to server
+    >V.host
+
+
+
 
 
 > edit
